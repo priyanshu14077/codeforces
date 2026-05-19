@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Editors
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+venv/
+.venv/
+
+# Test runner artifacts
+*.log
